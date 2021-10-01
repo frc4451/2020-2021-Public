@@ -1,0 +1,21 @@
+
+
+LOOSE ENDS:
+
+Drivetrain width
+Odometry reset, when to do it, how to do it
+Feed forward not having acceleration component
+Do they recommend brake mode?
+
+
+21/03/03 loose ends:
+
+Why do we have to reset code and go into teleop before going into auto?
+Why is the navigation drifting in bounce path?
+
+21/3/8:
+4.572 meters is distance for the run back and forth
+
+
+10.75in drift to the right from 3 passes
+11in drift forwards from 3

@@ -1,0 +1,19 @@
+
+ More Auto Routines
+ Write extra variations of routines for compatibility
+Y Add Climber
+ Add Color Wheel
+Y Aim and Speed Calculation
+Y Prevent Shooter Jams
+Y Backing up Tower
+ Find out about odometry reset and restart robot code for auto issue
+  Rugger
+
+Drivetrain width w/ bumper 38 in. (.9652 m)
+
+Pathweaver naming:
+	Competition Paths/[Name]Speed[SpeedABC]/PathWeaver/Paths/[NameAcronym]Auto[SpeedABC][Number]
+
+	Create new project: Create folder in Competition Paths, select
+	Import project: Select PathWeaver in project folder
+	Delete project: Remove project folder and try opening from PathWeaver, select Remove
